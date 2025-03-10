@@ -1,0 +1,10 @@
+body{
+    text-align:center;
+    background: linear-gradient(135deg, red, blue, white);
+    padding: 30px;
+}
+.search{
+    background-color: transparent;
+    border-radius: 20px;
+}
+
